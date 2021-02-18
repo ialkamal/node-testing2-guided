@@ -1,0 +1,1 @@
+web: knex seed:run
